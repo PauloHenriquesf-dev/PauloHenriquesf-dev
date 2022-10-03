@@ -14,7 +14,7 @@ Estou cursando o 6° semestre da graduação em Ciência da Computação na univ
 
 # Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PauloHenriquesf-dev&repo=PauloHenriquesf-dev.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PauloHenriquesf-dev&repo=PauloHenriquesf-dev.github.io)](https://github.com/PauloHenriquesf-dev/PauloHenriquesf-dev.github.io)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PauloHenriquesf-dev&repo=PauloHenriquesf-dev-tarefa.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
